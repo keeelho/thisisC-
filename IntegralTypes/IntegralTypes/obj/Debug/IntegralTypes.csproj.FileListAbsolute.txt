@@ -1,0 +1,7 @@
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\bin\Debug\IntegralTypes.exe.config
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\bin\Debug\IntegralTypes.exe
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\bin\Debug\IntegralTypes.pdb
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.csprojAssemblyReference.cache
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.exe
+C:\Users\KIM\Desktop\kilho\c#\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.pdb

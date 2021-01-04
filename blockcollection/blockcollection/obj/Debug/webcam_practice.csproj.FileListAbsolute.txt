@@ -1,0 +1,7 @@
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\obj\Debug\webcam_practice.csprojAssemblyReference.cache
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\obj\Debug\webcam_practice.csproj.CoreCompileInputs.cache
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\bin\Debug\webcam_practice.exe.config
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\bin\Debug\webcam_practice.exe
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\bin\Debug\webcam_practice.pdb
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\obj\Debug\webcam_practice.exe
+C:\Users\KIM\source\repos\webcam_practice\webcam_practice\obj\Debug\webcam_practice.pdb

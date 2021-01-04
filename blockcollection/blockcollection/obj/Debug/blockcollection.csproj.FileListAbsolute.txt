@@ -1,0 +1,7 @@
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\bin\Debug\webcam_practice.exe.config
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\bin\Debug\webcam_practice.exe
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\bin\Debug\webcam_practice.pdb
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\obj\Debug\blockcollection.csprojAssemblyReference.cache
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\obj\Debug\blockcollection.csproj.CoreCompileInputs.cache
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\obj\Debug\webcam_practice.exe
+C:\Users\KIM\Desktop\kilho\c#\blockcollection\blockcollection\obj\Debug\webcam_practice.pdb

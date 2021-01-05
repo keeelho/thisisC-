@@ -1,0 +1,7 @@
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\obj\Debug\BasicThread.csprojAssemblyReference.cache
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\KIM\Desktop\kilho\c#\BasicThread\BasicThread\obj\Debug\BasicThread.pdb
